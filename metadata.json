@@ -1,0 +1,6 @@
+{
+  "name": "Adverse Media Screening Agent",
+  "description": "Enterprise AML/KYC adverse media screening agent with investigation workspace, KYC integration, risk-engine impact analysis, EDD workflows, client information requests, compliance decision packs, acceptance conditions, four-eyes review, and BAU handover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
